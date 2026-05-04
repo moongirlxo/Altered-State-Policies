@@ -45,7 +45,7 @@ Your dream life stays yours.
 
 ## Install
 
-- **iOS (TestFlight):** *Small roll outs happening. Check the discord for more information.*
+- **iOS (TestFlight):** https://testflight.apple.com/join/3tw6V77V
 - **Android (APK):** https://drive.google.com/drive/folders/1hB1k5H7B8_DPQevlvHBJzCxUR-S_hE2O?usp=drive_link
 
 ---
