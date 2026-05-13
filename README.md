@@ -9,7 +9,7 @@ A private, on-device companion for lucid dreamers, astral projectors, and realit
 
 Altered State gives you four connected spaces for your practice:
 
-**The Journal** — Log dreams, lucid experiences, meditations and astral projections the moment you wake. Tag entries (people, places, themes, emotions) and export polished PDFs. Use the Journal type to log your daily thoughts or track notes, transforming the app into a comprehensive spiritual diary.
+**The Journal** — Log dreams, lucid experiences, meditations and astral projections the moment you wake. Tag entries (people, places, themes, emotions) and watch your dream cloud grow. Use the diary type to log your daily thoughts or track notes, transforming the app into a comprehensive spiritual diary.
 
 **Attempt Tracker** — Log each practice session: the technique you used, the sensations you noticed, conditions like sleep quality, and the final outcome. Spot the specific variables and techniques that actually work for you.
 
@@ -26,20 +26,19 @@ Altered State gives you four connected spaces for your practice:
 3. **Track your practice.** Use the Tracker tab to log attempts. Review your history to see which techniques (MILD, WILD, meditation-heavy, etc.) yield the best results.
 4. **Build and link scripts.** Head to the Scripts section within the Wishlist tab. Build out your DR from scratch or import a .md file. Link a script to a shifting attempt to keep your practice organized.
 5. **Privacy Mode.** Use the eye icon or shake your phone to enter Privacy Mode. This hides entry content so you can show someone the app's interface or your wishlist progress without exposing your private logs.
-6. **Local Backups.** The settings tab allows you to export a full backup of your dreams, meditation logs, attempts, scripts, and wishlist. You can import this file later to restore your data on a new device.
-7. **Customization.** Customize your app with different theme choices, allowing your practice to be as unique as the user itself.
+6. **Customization.** Customize your app with different theme choices, allowing your practice to be as unique as the user itself.
 ---
 
 ## Privacy
 
-Altered State is local-only by design.
+Right now, Altered State is local-only by design.
 
-- No accounts, no sign-ups
 - No cloud sync, no servers
 - No analytics, no tracking
 - All entries live in secure on-device storage
+- We eventually will be implementing end-to-end encrypted cloud storage, but for now all is local.
 
-Your dream life stays yours.
+Your dream life stays yours, whether local or cloud. We cannot see users information and never will.
 
 ---
 
