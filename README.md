@@ -56,5 +56,5 @@ The application source lives in a private repository. This public repo exists fo
 
 ## Feedback and bug reports
 
-Open an issue on this repo or reach out via email @ nmu01@icloud.com
+Open an issue on this repo or reach out via email @ moongirlxo@icloud.com
 The discord - https://discord.gg/metQnYb6wv/
