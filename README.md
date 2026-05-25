@@ -31,12 +31,12 @@ Altered State gives you four connected spaces for your practice:
 
 ## Privacy
 
-Right now, Altered State is local-only by design.
+Right now, Altered State is local-first by design.
 
-- No cloud sync, no servers
+- no servers
 - No analytics, no tracking
 - All entries live in secure on-device storage
-- We eventually will be implementing end-to-end encrypted cloud storage, but for now all is local.
+- We eventually will be implementing end-to-end encrypted cloud storage,(currently in beta testing) but for now all is local.
 
 Your dream life stays yours, whether local or cloud. We cannot see users information and never will.
 
