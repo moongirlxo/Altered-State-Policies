@@ -45,7 +45,7 @@ Your dream life stays yours, whether local or cloud. We cannot see users informa
 ## Install
 
 - **iOS (TestFlight):** https://testflight.apple.com/join/3tw6V77V
-- **Android (APK):** https://drive.google.com/drive/folders/1hB1k5H7B8_DPQevlvHBJzCxUR-S_hE2O?usp=drive_link
+- **Android (APK):** https://www.dropbox.com/scl/fo/g19ljvyovtpzm7glmuiax/AK7z0B97JIj2LDXuCwZSOZ8?rlkey=5ddul4n3981n1ob16cvpulwrv&st=ywazhrkr&dl=0
 
 ---
 
@@ -57,4 +57,3 @@ The application source lives in a private repository. This public repo exists fo
 ## Feedback and bug reports
 
 Open an issue on this repo or reach out via email @ moongirlxo@icloud.com
-The discord - https://discord.gg/metQnYb6wv/
